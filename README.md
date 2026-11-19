@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Vision-Language-Models-Multimodal-AI/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Vision-Language-Models-Multimodal-AI?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Vision-Language-Models-Multimodal-AI/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Vision-Language-Models-Multimodal-AI?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Vision-Language-Models-Multimodal-AI/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Vision-Language-Models-Multimodal-AI?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Vision-Language-Models-Multimodal-AI/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Vision-Language-Models-Multimodal-AI" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Vision-Language-Models-Multimodal-AI/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT" /></a>
@@ -72,9 +72,9 @@ The following SaaS platforms provide hosted infrastructure, managed annotation p
 
 ## 💻 Open-Source GitHub Projects
 
-The following curated open-source projects cover foundational vision-language architectures, document OCR engines, visual grounding toolkits, data labeling suites, and high-throughput VLM serving runtimes. Repositories are sorted in **descending order by GitHub star count**, featuring live social star badges linking directly to their respective stargazers pages:
+The following curated open-source projects cover foundational vision-language architectures, document OCR engines, visual grounding toolkits, data labeling suites, and high-throughput VLM serving runtimes. Repositories are sorted in **descending order by GitHub Stars_Count**, featuring live social Stars_Badges linking directly to their respective stargazers pages:
 
-| Project | Stars | Focus & Category | Description |
+| Project | GitHub_Stars | Focus & Category | Description |
 | :--- | :---: | :--- | :--- |
 | **[llama.cpp](https://github.com/ggml-org/llama.cpp)** | [![Stars](https://img.shields.io/github/stars/ggml-org/llama.cpp?style=social&color=white)](https://github.com/ggml-org/llama.cpp/stargazers) | Edge & Local VLM Inference | Foundational C/C++ inference engine supporting GGUF quantized Vision-Language Models (`libmtmd`) across CPU, Apple Metal, CUDA, Vulkan, and mobile hardware. |
 | **[vLLM](https://github.com/vllm-project/vllm)** | [![Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers) | High-Throughput Serving Engine | High-throughput open-source inference and serving engine with native PagedAttention support for Qwen2.5-VL, InternVL, Llama Vision, Gemma 3, and Pixtral models. |
@@ -123,7 +123,7 @@ Contributions are highly encouraged! Please follow these steps to keep the list 
 1. **Fork** the repository and create your feature branch: `git checkout -b feature/add-new-vlm`.
 2. Ensure links are active and point directly to the project's official landing page or code repository.
 3. For SaaS products, verify pricing information and free tier/trial allocations.
-4. For Open-Source repositories, ensure the repository is actively maintained and add social star badges linking to stargazers.
+4. For Open-Source repositories, ensure the repository is actively maintained and add social Stars_Badges linking to stargazers.
 5. Commit your changes: `git commit -m "feat: add [Project Name]"`.
 6. Push to your branch: `git push origin feature/add-new-vlm`.
 7. Submit a **Pull Request** detailing why the tool should be added.
